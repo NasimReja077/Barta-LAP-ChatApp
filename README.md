@@ -4,8 +4,8 @@
 
 **A Modern Real-Time Chat Application**
 
-![Barta-LAP Logo](<img width="973" height="757" alt="image" src="https://github.com/user-attachments/assets/fa5b97b7-5e0a-42b4-b0ce-6ec997f7c450" />
-)
+<img width="973" height="757" alt="image" src="https://github.com/user-attachments/assets/a6c6cead-dc98-42ab-b638-5a05e233311d" />
+
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
