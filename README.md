@@ -7,7 +7,6 @@
 <img width="973" height="757" alt="image" src="https://github.com/user-attachments/assets/a6c6cead-dc98-42ab-b638-5a05e233311d" />
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18+-blue.svg)](https://reactjs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green.svg)](https://www.mongodb.com/)
@@ -35,7 +34,6 @@
 - [Contributors](#-contributors)
 - [Acknowledgments](#-acknowledgments)
 - [Contact Information](#-contact-information)
-- [License](#-license)
 
 ## 🎯 Project Aim
 
@@ -1151,30 +1149,40 @@ const getLastSeenText = (lastSeen) => {
 ## 📱 Screenshots
 
 ### Desktop View
-![Desktop Homepage](screenshots/desktop-homepage.png)
+![Desktop Homepage](<img width="1920" height="879" alt="image" src="https://github.com/user-attachments/assets/5642e324-a4f5-4925-bb59-429960a8064f" />
+<img width="1920" height="880" alt="image" src="https://github.com/user-attachments/assets/18d2efa4-517d-46a1-9f7e-512e0305ed58" />
+
+)
 *Main chat interface with sidebar and message area*
 
-![Desktop Login](screenshots/desktop-login.png)
+![Desktop Login](<img width="1899" height="883" alt="image" src="https://github.com/user-attachments/assets/86082d14-543e-42c7-a619-af34f3d3f719" />)
 *Clean login page with modern design*
 
 ### Mobile View  
-![Mobile Chat](screenshots/mobile-chat.png)
+![Mobile Chat](<img width="292" height="628" alt="image" src="https://github.com/user-attachments/assets/09ebf038-5a2f-43c2-bcf0-f3341c539215" />
+)
 *Responsive mobile chat interface*
 
 ![Mobile Sidebar](screenshots/mobile-sidebar.png)
 *Collapsible sidebar for mobile users*
 
 ### Key Features
-![Message Status](screenshots/message-status.png)
+![Message Status](<img width="565" height="578" alt="image" src="https://github.com/user-attachments/assets/d6490f6a-7369-4f73-a974-c3b8f528cdeb" />
+)
 *Message status indicators (sent/delivered/read)*
 
-![Theme Selection](screenshots/theme-selection.png)
+![Theme Selection](<img width="1911" height="876" alt="image" src="https://github.com/user-attachments/assets/1b44a51d-aeb4-4205-b016-7eea8fb3797d" />
+<img width="1182" height="811" alt="image" src="https://github.com/user-attachments/assets/a00527f8-7693-45be-8daf-c05833feac33" />
+
+)
 *Multiple theme options in settings*
 
-![Profile Page](screenshots/profile-page.png)
+![Profile Page](<img width="1334" height="877" alt="image" src="https://github.com/user-attachments/assets/8205a73c-b3e2-4c4b-a73d-1e9ee44e385c" />
+)
 *Comprehensive user profile management*
 
-![Image Sharing](screenshots/image-sharing.png)
+![Image Sharing](<img width="1567" height="277" alt="image" src="https://github.com/user-attachments/assets/8a0deb22-96a1-4ba9-bc0c-7f3b9cbc6cfb" />
+)
 *Image upload and sharing functionality*
 
 ## 🌐 Live Demo
@@ -1186,8 +1194,8 @@ const getLastSeenText = (lastSeen) => {
 For testing purposes, you can use these demo accounts:
 
 **User 1**:
-- Email: `demo1@barta-lap.com`
-- Password: `demo123456`
+- Email: `nasim@gmail.com`
+- Password: `1234567890`
 
 **User 2**:
 - Email: `demo2@barta-lap.com`  
@@ -1505,7 +1513,7 @@ const getMessages = async (req, res) => {
 ## 🤝 Contributors
 
 ### Core Team
-- **[Your Name]** - *Lead Developer* - [GitHub](https://github.com/yourusername)
+- **[Nasim Reja Mondal]** - *Lead Developer* - [GitHub](https://github.com/NasimReja077)
   - Full-stack development
   - System architecture
   - UI/UX design
@@ -1578,17 +1586,17 @@ const getMessages = async (req, res) => {
 ## 📞 Contact Information
 
 ### Project Maintainer
-- **Name**: [Your Full Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Name**: [Nasim Reja Mondal]
+- **Email**: [rejanasim611@gmail.com]
+- **GitHub**: [@yourusername](https://github.com/NasimReja077)
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/nasim-reja-mondal-404141225)
+- **Twitter**: [@yourtwitterhandle](https://x.com/asimReja7)
 
 ### Project Links
-- **Repository**: [https://github.com/yourusername/barta-lap](https://github.com/yourusername/barta-lap)
+- **Repository**: [https://github.com/NasimReja077/barta-lap](https://github.com/NasimReja077/Barta-LAP-ChatApp)
 - **Live Demo**: [https://barta-lap-demo.herokuapp.com](https://barta-lap-demo.herokuapp.com)
-- **Documentation**: [Project Wiki](https://github.com/yourusername/barta-lap/wiki)
-- **Issue Tracker**: [GitHub Issues](https://github.com/yourusername/barta-lap/issues)
+- **Documentation**: [Project Wiki](https://github.com/NasimReja077/Barta-LAP-ChatApp?tab=readme-ov-file)
+- **Issue Tracker**: 
 
 ### Support
 - **Bug Reports**: Create an issue on GitHub
@@ -1597,39 +1605,11 @@ const getMessages = async (req, res) => {
 - **Security Issues**: Send private email to security@yourproject.com
 
 ### Community
-- **Discord Server**: [Join our community](https://discord.gg/your-invite)
-- **Telegram Group**: [Developer discussions](https://t.me/bartalap)
-- **Reddit Community**: [r/BartaLAP](https://reddit.com/r/bartalap)
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### MIT License Summary
-```
-Copyright (c) 2025 Barta-LAP Contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+- **Discord Server**:
+- **Telegram Group**: 
+- **Reddit Community**: 
 
 ---
-
 <div align="center">
 
 ### 🌟 Star this repository if you found it helpful!
